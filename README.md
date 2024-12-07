@@ -1,6 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-
 ### 1. Homepage  
 ![Homepage](./image/homepage.png)
 
@@ -26,7 +23,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ### ติดตั้ง Next.js
 1. ติดตั้ง [Node.js](https://nodejs.org/) หากยังไม่มี  
 2. สร้างโปรเจกต์ใหม่โดยใช้คำสั่ง:
+   
 ## Getting Started
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
