@@ -1,5 +1,31 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+### 1. Homepage  
+![Homepage](./image/homepage.png)
+
+### 2. Login  
+![Login](./image/login.png)
+
+### 3. Register  
+![Register](./image/register.png)
+
+### 4. Profile  
+![Profile](./image/profile.png)
+
+---
+
+## เครดิตการสอน ลิงก์วิดีโอของ Patiphan Phengpao (Demo Video)
+
+[ชมวิดีโอบน YouTube]([https://www.youtube.com/watch?v=your-video-link](https://www.youtube.com/watch?v=F1vMc5LEDi4))
+
+---
+
+## ขั้นตอนการติดตั้ง (Installation Guide)
+
+### ติดตั้ง Next.js
+1. ติดตั้ง [Node.js](https://nodejs.org/) หากยังไม่มี  
+2. สร้างโปรเจกต์ใหม่โดยใช้คำสั่ง:
 ## Getting Started
 
 First, run the development server:
