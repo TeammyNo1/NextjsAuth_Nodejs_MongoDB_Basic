@@ -14,7 +14,7 @@
 
 ## เครดิตการสอน ลิงก์วิดีโอของ Patiphan Phengpao (Demo Video)
 
-[ชมวิดีโอบน YouTube]([https://www.youtube.com/watch?v=F1vMc5LEDi4)
+[ชมวิดีโอบน YouTube](https://www.youtube.com/watch?v=F1vMc5LEDi4)
 
 ---
 
